@@ -1,0 +1,15 @@
+#+title:     Bittorrent README
+#+author:    Alfredo Suarez
+#+email:     alfiexco@icloud.com
+
+* Bittorrent (Alfie's)
+
+#+begin_quote
+Do not use --- Alfredo
+#+end_quote
+
+This is a tool that I will use, for fun. I mainly created it to understand the [[https://www.bittorrent.org/beps/bep_0003.html][bittorrent protocol]]. It's pretty cool.
+
+** Why python?
+
+I missed python. I think Go would be better and more efficient due to goroutines.
