@@ -1,8 +1,6 @@
-#+title:     Bittorrent README
+#+title:     Bittorrent (Alfie's)
 #+author:    Alfredo Suarez
 #+email:     alfiexco@icloud.com
-
-* Bittorrent (Alfie's)
 
 #+begin_quote
 Do not use --- Alfredo
